@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2025-06-18 06:13:43,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
+2025-06-18 18:15:05,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 
 📺央视频道,#genre#
 CCTV-2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
-CCTV-3,http://121.17.146.34:50003/hls/3/index.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
@@ -37,23 +36,22 @@ CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://119.32.12.17:2901/udp/224.1.100.68:11111
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://119.32.12.17:2901/udp/224.1.100.56:11111
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://119.32.12.17:2901/udp/224.1.100.74:11111
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-江苏卫视,http://1b6467f415.iok.la:9931/tsfile/live/1060_1.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 
 ☘️北京频道,#genre#
 北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1750032011&sign=1ab4749a87ca1fd70c8ff7e46808f598
 北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1750100412&sign=bae50de808932ce5bf7b6e27beb41e9d
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1750100411&sign=43eb3a3f5a27984a9584ff103e04d7f8
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
 北京科教,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
