@@ -1,10 +1,8 @@
 🕘️更新时间,#genre#
-2025-08-02 18:14:53,http://omnix.cn:4000/udp/225.1.8.89:8000
+2025-08-03 06:13:52,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225821/index.m3u8
 
 📺央视频道,#genre#
-CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5+,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225821/index.m3u8
-CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 
 💰央视付费频道,#genre#
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
