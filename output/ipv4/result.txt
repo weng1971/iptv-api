@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-15 06:13:40,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
+2025-08-15 18:15:20,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 
 📺央视频道,#genre#
 
@@ -30,27 +30,26 @@
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1755208806&sign=fd12f274ef31c5583e7ee919bca9f181
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1755252608&sign=f445b33728cfa3b528bd38c28eb4410f
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+广西卫视,http://101.66.199.251:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://115.48.160.227:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=42d9cfb23d0226be0b1943778898c768&txTime=689E94B7
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=e65153ccd2cd4a32b26af317c60740ad
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=5c274340a149bdf7997d5dcf98284f1e&txTime=689F3FD6
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=4819942d1f8b41e2a5c143cf2fa07dc5
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/ksh84Vm.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-opuFR7.m3u8
-新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1755212402-3-3-0262fc53217ebf59e7bd7d4660daa5e1&aliyun_uuid=7b7ee523-b08a-48d6-888b-91d500214c6d
+新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1755256202-2-2-d9b1390668ab0658718cc5f99d0b6ff6&aliyun_uuid=29b31772-2c3d-4851-ac03-8de4d953c694
 
 ☘️北京频道,#genre#
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1755008438&sign=467413ed3278170154b109c9d73516bf
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1755166214&sign=3d29236a07e2a83194047b5a0788a942
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1755208810&sign=4be53596da72759ea1e75087731fc26c
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1755252614&sign=468428f1d96104c0b72b9be31d5e6e01
 北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1755123012&sign=0724032d03eb48512d1573d01b54c4b1
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1755208810&sign=4be53596da72759ea1e75087731fc26c
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1755166214&sign=3d29236a07e2a83194047b5a0788a942
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1755208810&sign=283b3d2c8cf2fe4ba526f8f2fc848305
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1755208809&sign=2311f77aca643cb3469bbaa1b37e7767
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1755252613&sign=614d8ebe28ed836d3e2a0df0b000862c
+北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1755252613&sign=03e2121852c420c16252c83f5aa91017
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1755208809&sign=664976c546ab118094ea4dedbee9b7a4
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1755252612&sign=3e2011620f98c54efce3620d78f18bc8
