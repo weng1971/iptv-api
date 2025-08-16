@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2025-08-16 18:13:19,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
+2025-08-17 06:13:36,http://221.205.129.173:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
+CCTV-3,http://221.205.129.173:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 💰央视付费频道,#genre#
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
@@ -26,26 +27,30 @@
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1755382209&sign=a734f23f1f4db41590564bf369c88e2a
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+河北卫视,http://1.197.82.76:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=626e7ba73d37e54dfe3fbc8c2b2554c8&txTime=68A09164
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=6faf639bdc404ea49b3e517050ce6efd
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=6f0760164942644df70d74a7a815b00f&txTime=68A13A13
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=a1fb09dd7e8b45b5a27f01d90d1bac68
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1755342602-3-3-fd4026532e5d4d6fdb2987f34be7a79f&aliyun_uuid=3891f7b3-341a-46eb-8e15-b2bc3168bce5
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/g2sqsR0.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-agixOT.m3u8
+新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1755385803-8-8-f5f46242937c5c2a12cf96f4b3125254&aliyun_uuid=fbd7c82b-aad0-4020-a2ac-ac0659f658d0
 
 ☘️北京频道,#genre#
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1755166214&sign=3d29236a07e2a83194047b5a0788a942
 北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1755339028&sign=495aed48c98eee0594a27482de13cfd7
 北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1755208810&sign=4be53596da72759ea1e75087731fc26c
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1755295814&sign=136e6faec5a3afd5c55f2cecd1fcda9a
 北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1755252614&sign=468428f1d96104c0b72b9be31d5e6e01
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1755295814&sign=136e6faec5a3afd5c55f2cecd1fcda9a
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1755382214&sign=9ac268660b9009f734a9283eddd44a54
 北京卡酷少儿,http://60.29.124.66:6080/hls/58/index.m3u8
 北京卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 北京卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1755339028&sign=586ce59578cfb6c0341ff1e8194b2fb9
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1755339027&sign=807d34e855a6bca1c440e9fccbbd89f1
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1755382213&sign=c4fa50d2b466930d5a27d2a2547465bc
+北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1755382213&sign=b1b58000da5b7c1aa5fbbc1da1575768
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1755339026&sign=eaaa2d8a7e7b49d7609a4b32e5a07fde
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1755382213&sign=012e33a54d3da3a1f8d5072e56e2eee2
