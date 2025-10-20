@@ -1,12 +1,7 @@
 🕘️更新时间,#genre#
-2025-10-20 06:12:14,http://124.88.238.50:82/hls/2/index.m3u8
+2025-10-20 18:16:20,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://124.88.238.50:82/hls/2/index.m3u8
-CCTV-4,http://124.88.238.50:82/hls/4/index.m3u8
-CCTV-5,http://124.88.238.50:82/hls/5/index.m3u8
-CCTV-7,http://124.88.238.50:82/hls/7/index.m3u8
-CCTV-11,http://124.88.238.50:82/hls/10/index.m3u8
 
 💰央视付费频道,#genre#
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
@@ -23,25 +18,19 @@ CCTV-11,http://124.88.238.50:82/hls/10/index.m3u8
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1760911206&sign=ebefc48362d32921f4b44996685bfd24
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1760911806&sign=eeb19d4df56c2d16e5443d3434e9f822
-安徽卫视,http://124.88.238.50:82/hls/18/index.m3u8
-东方卫视,http://124.88.238.50:82/hls/15/index.m3u8
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1760954409&sign=c75c3f8f1998928c98e68380853a952e
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://124.88.238.50:82/hls/20/index.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=71ee26e8929e475fcc79affaa8a5221b&txTime=68F597B8
-辽宁卫视,http://124.88.238.50:82/hls/21/index.m3u8
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=910bc5d231a9431d9ae47ad20ce34301
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=3a623ed9957d6931ed7610ff7f26eed1&txTime=68F6407C
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=ae313aff3a414f63b21a4dbb6234df96
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-izJKW8.m3u8
 
 ☘️北京频道,#genre#
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1760911812&sign=7ae5b67af03877fc5fce1e78e1e4830c
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1760954416&sign=3755ca6cbf8e4df93ad11a0ae39ebb70
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1760911811&sign=ec6decda146dc5daf14ad646f9914c87
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1760911810&sign=3cfa512319a002205f155a3f48a0660b
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1760954415&sign=cf420d79b1ad31a03d31683eec22b7e2
+北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1760954414&sign=5dcf5c3caf37164605bd347090e4d6e4
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1760911809&sign=64e0dae3b5794a5d06a07123b125a645
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1760954413&sign=8e8289b3a2d83f16d8ab0c27fc709441
