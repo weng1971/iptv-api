@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-29 18:16:40,http://hmfs.f3322.net:3388/hls/29/index.m3u8
+2025-12-30 06:13:41,http://hmfs.f3322.net:3388/hls/29/index.m3u8
 
 📺央视频道,#genre#
 
@@ -18,19 +18,23 @@
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1767003007&sign=09f4bfc45344a55f81131a3d2a695aa0
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1767046209&sign=50dab89eb50b8242f99031e07bd65e2f
+东南卫视,http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=0d3f08509f4cb8b74ea61a773c010b61&txTime=69528BD0
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=fe59c286e5434a33868563d77ee1c86b
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=2f55c3835251c062597165817180f886&txTime=69533495
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=e34aaa4fdd404e299ac8cd81e4ba8eac
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/d4sqsR0.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-joCT05.m3u8
 
 ☘️北京频道,#genre#
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1767003014&sign=956cbd56233725c035e85a7c56a645f9
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1767046217&sign=b6b336913b5dee6bd3e2327b7c82fd30
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1767003013&sign=50b05c682aa9d422b645e06cf5ac085a
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1767003012&sign=cca3b284c235e1ce6b3a8413eb002c19
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1767046216&sign=b74885bf3c9ab59b024cc4a829905b73
+北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1767046215&sign=c925ce8ddc820ca2e23361502ebcc628
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1767003011&sign=bd3162a1740024821f469f0f4b6b85b6
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1767046213&sign=718c851ab0c4c4ed744cb841edd858e0
