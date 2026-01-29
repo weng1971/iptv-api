@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2026-01-29 06:18:43,http://23.237.228.134/live5/CCTV1.m3u8
+2026-01-29 18:28:20,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
-CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-9,http://23.237.228.134/live5/CCTV9.m3u8
 CCTV-10,http://23.237.228.134/live5/CCTV10.m3u8
@@ -29,41 +28,39 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 
 📡卫视频道,#genre#
-广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
-浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
+广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 北京卫视,http://23.237.228.134/live3/beijing.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1769637608&sign=c514ffb14b5ed2794eb85928e4f6f06e
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1769682009&sign=6dcce4fabc68e71c71a3e61e9e297250
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 安徽卫视,http://23.237.228.134/live8/anhui.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 东南卫视,http://23.237.228.134/live8/gansu.m3u8
-广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 广西卫视,http://23.237.228.134/live6/guizhou.m3u8
+广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 河北卫视,http://23.237.228.134/live8/hebei.m3u8
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://23.237.228.134/live8/jilin.m3u8
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=12adbb119e767b9ec3dcd478b6a99b3f&txTime=697B6CAD
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=ca8de7d421e23e1003299e5b91ffa8b5&txTime=697ABF3A
 江西卫视,http://23.237.228.134/live8/jiangxi.m3u8
 辽宁卫视,http://23.237.228.134/live8/liaoning.m3u8
 内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=2cc61a3f70604fc98386dad78a61ab49
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=c1e48f4a87c647ccb96a3f706eb9bd7e
 青海卫视,http://23.237.228.134/live8/qinghai.m3u8
 山西卫视,http://23.237.228.134/live8/shanxi.m3u8
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/53sqcR0.m3u8
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-dDL067.m3u8
+陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 天津卫视,http://23.237.228.134/live8/tianjing.m3u8
@@ -71,9 +68,9 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 云南卫视,http://23.237.228.134/live8/yunnan.m3u8
 
 ☘️北京频道,#genre#
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1769637615&sign=cfaf9c815bd319bf3731fd31219a3b52
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1769682017&sign=60f763a52d3c665d3381c17863c0605f
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1769637614&sign=6e14963c4a814bc097d88b257db2000a
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1769637613&sign=d329a2cb3fd4d9a1a9bd17e53e8f8839
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1769682016&sign=cee980c5fdd1b1f001b3950475bcf86b
+北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1769682015&sign=edceb5b09ea24d273794c4b7131b5b65
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1769637612&sign=fa9a7e90506e7dabddfa88a1d276db32
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1769682014&sign=c25135991e3dd5746e73c912dd7d79a5
