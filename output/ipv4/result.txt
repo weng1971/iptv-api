@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-08 06:14:36,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+2026-03-08 18:16:52,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 
 📺央视频道,#genre#
 
@@ -16,14 +16,12 @@
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=7a65e4ca9dc3326819b9185be398c06c&txTime=69AD8451
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=e8216839933b942a028e9e211394f1a1&txTime=69ACDB10
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3621481general.m3u8?txSecret=a0b8cc66a1124cf66791a507195b9093&txTime=6D58FFD0&token=50b3d324bee7471c8a391c0ddfac1ad0
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3621481general.m3u8?txSecret=a0b8cc66a1124cf66791a507195b9093&txTime=6D58FFD0&token=51e587008019496b8231db22e1d32757
 宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/i4sqpR0.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-wxJM89.m3u8
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 
 ☘️北京频道,#genre#
