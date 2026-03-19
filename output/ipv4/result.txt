@@ -1,13 +1,13 @@
 🕘️更新时间,#genre#
-2026-03-19 06:24:46,http://107.150.60.122/live/cctv5p.m3u8
+2026-03-19 18:31:39,http://107.150.60.122/live/cctv5p.m3u8
 
 📺央视频道,#genre#
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 
 💰央视付费频道,#genre#
-文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 文化精品,http://107.150.60.122/live/ysjp.m3u8
+文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
@@ -21,15 +21,14 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=c6818b4e097a4ad30d70c7457c09d8df&txTime=69BB5DE8
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3621481general.m3u8?txSecret=a0b8cc66a1124cf66791a507195b9093&txTime=6D58FFD0&token=3d37b3a8740b45ebbca87354ef4cdb89
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=79299ae743b98f1ed7a243dbeb2573de&txTime=69BBEF3A
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3621481general.m3u8?txSecret=a0b8cc66a1124cf66791a507195b9093&txTime=6D58FFD0&token=bd7bad63dcfc472e8c7c6b6412d747cd
 宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/31sq3R0.m3u8
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-giszKW.m3u8
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
+新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1773913203-0-0-a3fe3d00c2eb6b77f9e878d77795148b&aliyun_uuid=93dad987-9947-4964-b1cb-d001cd0093f7
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
