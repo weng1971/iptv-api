@@ -1,8 +1,18 @@
 🕘️更新时间,#genre#
-2026-06-09 07:08:18,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-06-09 20:34:04,http://101.66.195.125:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视频道,#genre#
+CCTV-1,http://101.66.195.125:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-2,http://101.66.195.125:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-3,http://101.66.195.125:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-5,http://101.66.195.125:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-6,http://101.66.195.125:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-7,http://101.66.195.125:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-8,http://101.66.195.125:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-9,http://101.66.195.125:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-13,http://101.66.195.125:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-15,http://101.66.195.125:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 💰央视付费频道,#genre#
@@ -13,14 +23,28 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 
 📡卫视频道,#genre#
+广东卫视,http://101.66.195.125:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://101.66.195.125:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://101.66.195.125:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+东南卫视,http://101.66.195.125:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://101.66.195.125:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视,http://101.66.195.125:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://101.66.195.125:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=a90c533c37a25b3d955326060813992d&txTime=6A278248
-陕西卫视,http://stream.snrtv.com/sxbc-star-aksuDP.m3u8
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=005f97b802ffbe8cf883fb667289a115&txTime=6A283F9D
+江苏卫视,http://101.66.195.125:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://101.66.195.125:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://115.48.161.50:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://101.66.195.125:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://125.43.244.34:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://101.66.195.125:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://101.66.195.125:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://125.43.244.34:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
